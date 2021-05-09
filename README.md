@@ -1,6 +1,6 @@
 ![picture alt](https://yt3.ggpht.com/ytc/AAUvwnjHtyrop9r54hO70l15JAG3MJarWIC7kc1wH2F-=s88-c-k-c0x00ffffff-no-rj "ModernCPP")
 # ModernCpp
-## The teaching materials of Modern Cpp youtube channel
+## The teaching materials of ModernCpp youtube channel
 
 ### Content
 * Functions
