@@ -3,7 +3,7 @@ void swap (int&, int&);
 
 void swap (int& a, int& b)
 {
-        auto tmp;
+        auto tmp = a;
         a = b;
         b = tmp;
 }
